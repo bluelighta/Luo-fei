@@ -1,2 +1,2 @@
 # luofei
-personal
+be interested in AI
